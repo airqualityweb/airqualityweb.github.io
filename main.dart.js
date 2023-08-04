@@ -54141,7 +54141,7 @@ new A.rb(p,A.o(p).i("rb<1>")).pv(new A.aqK())
 return A.r(null,r)}})
 return A.t($async$Dl,r)},
 F(a){var s=null
-return A.fj(s,!1,!1,s,s,!1,!1,new A.qX(s),s,s,s,s,s,s,$.aWt(),B.aC,s,s,s,s,B.aG,s,s,s,!1,!1,B.aB,A.lh(s,B.v7,s,s),B.aE,"Flutter Demo",!1)}}
+return A.fj(s,!1,!1,s,s,!1,!1,new A.qX(s),s,s,s,s,s,s,$.aWt(),B.aC,s,s,s,s,B.aG,s,s,s,!1,!1,B.aB,A.lh(s,B.v7,s,s),B.aE,"NDS",!1)}}
 A.aqE.prototype={
 $0(){return this.a.m5()},
 $S:0}
@@ -57489,8 +57489,8 @@ A.Xl.prototype={
 a7(){var s=this.a.c
 this.e=s
 this.ai()},
-F(a){var s=null,r="Segnala all\u2019assistenza",q=t.p
-return A.dO(s,B.O,A.aI(A.a([A.bj(s,A.Z(a,s,t.w).w.f.b+10,s),A.aw(A.a([new A.aT(1,B.C,A.aw(A.a([A.c6(s,B.c3,s,new A.avo(a),s,s,s),B.V,A.dw("images/ic_logo.svg",!1,30,B.f,B.bn),B.V,A.c_(r,20,B.f,B.G)],q),B.i,B.n,B.h),s),A.B(s,A.c6(s,B.b6,s,new A.avp(a),s,s,"Menu"),B.e,s,s,s,s,s,s,s,s,s,s,s)],q),B.i,B.n,B.h),A.B(s,A.dZ(a,"OTP inviato",!0,B.aa,10,s,this.d,"",B.ah),B.e,s,s,s,s,s,s,s,s,s,s,s),A.ex(B.a5,new A.avq(this),r)],q),B.i,B.n,B.h),s,s)},
+F(a){var s=null,r=t.p
+return A.dO(s,B.O,A.aI(A.a([A.bj(s,A.Z(a,s,t.w).w.f.b+10,s),A.aw(A.a([new A.aT(1,B.C,A.aw(A.a([A.c6(s,B.c3,s,new A.avo(a),s,s,s),B.V,A.dw("images/ic_logo.svg",!1,30,B.f,B.bn),B.V,A.c_("Segnala all\u2019assistenza",20,B.f,B.G)],r),B.i,B.n,B.h),s),A.B(s,A.c6(s,B.b6,s,new A.avp(a),s,s,"Menu"),B.e,s,s,s,s,s,s,s,s,s,s,s)],r),B.i,B.n,B.h),A.B(s,A.dZ(a,"OTP inviato",!0,B.aa,10,s,this.d,"",B.ah),B.e,s,s,s,s,s,s,s,s,s,s,s),A.ex(B.a5,new A.avq(this),"Inserisci il messaggio di segnalazione")],r),B.i,B.n,B.h),s,s)},
 Bg(a){return this.apb(a)},
 apb(a){var s=0,r=A.u(t.z),q=this,p
 var $async$Bg=A.v(function(b,c){if(b===1)return A.q(c,r)
